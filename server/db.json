@@ -1,0 +1,13 @@
+{
+    "data-personal" : [
+        {
+            "id" : 1,
+            "firstname" : "udin",
+            "lastname" : "baharudin",
+            "alamat" : "Mergangsan, Yogyakarta, 55151",
+            "pendidikan" : ["SMP", "SD", "SMA"],
+            "pengalamankerja" :["Belum ada"],
+            "keahlian" : ["CSS", "HTML"]
+        }
+    ]
+}
